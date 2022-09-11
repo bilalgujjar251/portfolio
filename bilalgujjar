@@ -1,0 +1,416 @@
+
+<!DOCTYPE html><html dir="ltr" lang="en" class=" home_page home_page_design s_layout1 isFreePackage  "><head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <meta charset="utf-8"> <link rel="dns-prefetch preconnect" href="https:https://cdn-cms-s.f-static.net" crossorigin="anonymous"/> <link rel="dns-prefetch preconnect" href="https://cdn-cms-s.f-static.com" crossorigin="anonymous"/> <link rel="dns-prefetch preconnect" href="https://cdn-cms.f-static.com" crossorigin="anonymous"/> <link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/> <link rel="dns-prefetch preconnect" href="https://cdn-cms-s.f-static.net" crossorigin="anonymous"/> <link rel="dns-prefetch preconnect" href="https://cdn-cms.f-static.net" crossorigin="anonymous"/> <link rel="dns-prefetch preconnect" href="https://static.s123-cdn-static-d.com" crossorigin="anonymous"/> <!-- Favicon --> <link rel="shortcut icon" href="https://cdn-cms-s.f-static.net/manager/websites/site123_website/files/logos/brand_files_2020/Icons/Png/Icon_blue.png?v=r82146" type="image/x-icon"> <link rel="icon" href="https://cdn-cms-s.f-static.net/manager/websites/site123_website/files/logos/brand_files_2020/Icons/Png/Icon_blue.png?v=r82146" type="image/x-icon"> <link rel="manifest" href="https://cdn-cms-s.f-static.net/versions/2/css/manifest.json?w=&orderScreen=&websiteID=6720366&onlyContent=&tranW=&v=css_r157_35569239&wd=63146f99262ad.site123.me"><!-- Status Bar --><meta name="apple-mobile-web-app-status-bar-style" content="default"><!-- 152px icon --><link rel="apple-touch-icon" sizes="152x152" href="https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=152&height=152&resizeType=pwaIcon&w=&orderScreen=&websiteID=6720366&tranW=&v=css_r157_35569239"><!-- 180px icon --><link rel="apple-touch-icon" sizes="180x180" href="https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=180&height=180&resizeType=pwaIcon&w=&orderScreen=&websiteID=6720366&tranW=&v=css_r157_35569239"><!-- 167px icon --><link rel="apple-touch-icon" sizes="167x167" href="https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=167&height=167&resizeType=pwaIcon&w=&orderScreen=&websiteID=6720366&tranW=&v=css_r157_35569239"> <!-- Mobile Browser Address Bar Color --> <meta name="theme-color" content="#f1c50e"> <!-- Regular Meta Info --> <title class="s123-js-pjax">portfolio - </title> <meta name="description" content="portfolio - " class="s123-js-pjax"> <meta name="keywords" content="" class="s123-js-pjax"> <link rel="canonical" href="https://63146f99262ad.site123.me/" class="s123-js-pjax"/> <style>/* vietnamese */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss2ApVBdCYD5Q7hcxTE1ArZ0bb1uXF63v0qNxhX5Q.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss2ApVBdCYD5Q7hcxTE1ArZ0bb1uXB63v0qNxhX5Q.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss2ApVBdCYD5Q7hcxTE1ArZ0bb1uX563v0qNxg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss2ApVBdCYD5Q7hcxTE1ArZ0bb1uXF63v0qNxhX5Q.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss2ApVBdCYD5Q7hcxTE1ArZ0bb1uXB63v0qNxhX5Q.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss2ApVBdCYD5Q7hcxTE1ArZ0bb1uX563v0qNxg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss0ApVBdCYD5Q7hcxTE1ArZ0bb_iXxw2d8oBxk.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss0ApVBdCYD5Q7hcxTE1ArZ0bb-iXxw2d8oBxk.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss0ApVBdCYD5Q7hcxTE1ArZ0bbwiXxw2d8o.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss0ApVBdCYD5Q7hcxTE1ArZ0bb_iXxw2d8oBxk.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss0ApVBdCYD5Q7hcxTE1ArZ0bb-iXxw2d8oBxk.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Archivo Narrow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/archivonarrow/v24/tss0ApVBdCYD5Q7hcxTE1ArZ0bbwiXxw2d8o.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style> <!-- Facebook Meta Info --> <meta property="og:url" content="https://63146f99262ad.site123.me/" class="s123-js-pjax"> <meta property="og:image" content="" class="s123-js-pjax"> <meta property="og:description" content="portfolio - " class="s123-js-pjax"> <meta property="og:title" content="portfolio - " class="s123-js-pjax"> <meta property="og:site_name" content="portfolio" class="s123-js-pjax"> <meta property="og:see_also" content="https://63146f99262ad.site123.me" class="s123-js-pjax"> <!-- Google+ Meta Info --> <meta itemprop="name" content="portfolio - " class="s123-js-pjax"> <meta itemprop="description" content="portfolio - " class="s123-js-pjax"> <meta itemprop="image" content="" class="s123-js-pjax"> <!-- Twitter Meta Info --> <meta name="twitter:card" content="summary" class="s123-js-pjax"> <meta name="twitter:url" content="https://63146f99262ad.site123.me/" class="s123-js-pjax"> <meta name="twitter:title" content="portfolio - " class="s123-js-pjax"> <meta name="twitter:description" content="portfolio - " class="s123-js-pjax"> <meta name="twitter:image" content="" class="s123-js-pjax">        <meta name="robots" content="all" class="s123-js-pjax">
+                            <!-- Website CSS variables --> <style>    :root { --global_main_color: #f1c50e; --global_main_color_btn_text_color: #ffffff; --home_text_color: #000000; --home_third_background_color: #fafafa; --home_custom_image_size: 500px; --home_custom_image_width: 581px; --home_text_size_px: 23px; --home_text_size_2_px: 83px; --slogan_text_size_px: 26px; --home_text_size: 23; --home_text_size_2: 83; --slogan_text_size: 26; --home_text_size_px_media: 23px; --home_text_size_2_px_media: 83px; --slogan_text_size_px_media: 26px; --layout_text_align: left; --layout_text_align_rtl: right; --layout_text_box_width: 100%; --layout_left_side_width: 45%; --layout_left_side_width_vh: 45vh; --homepage_layout_height: 81%; --homepage_layout_height_vh: 81vh; --homepage_layout_height_menu_space: 0px; --mainNavMobileHeight: 0px; --homepage_layout_height_opacity_space_top: 0px; --homepage_layout_height_opacity_space_bottom: 0px; --mobileMenuFontSize: 20px; --mobileMenuPagesSpace: 5px; --homepageShapeDividerList_Size: 17%; --layout_bottom_spacing: 0px; --window-height: 100vh; --window-width: 100vw; --menu_font_size: 18px; --menu_pages_space: 1px; --menu_pages_side_padding: 15px; --menu_pages_letter_spacing: 0.5px; --menu_pages_word_spacing: 0px; --menu_thin_border: #ebebeb; --mobileMenuTextAlign: center; --menu_text_color: #252525; --menu_color: #ffffff; --modules_color_text: #252525; --modules_color_text_second: #252525; --inside_modules_color_text: #252525; --sectionsPadding: 75px; --home_text_top_space_1: 0px; --home_text_bottom_space_1: 8px; --home_text_top_space_2: 0px; --home_text_bottom_space_2: 16px; --home_text_top_space_3: 0px; --home_text_bottom_space_3: 31px; --homepage_padding_top: px; --homepage_padding_bottom: px; --homepage_main_goal_margin_top: 0px; --homepage_main_goal_margin_bottom: 0px; --homepage_second_goal_margin_top: 34px; --homepage_second_goal_margin_bottom: 0px; --modules_color_second: #fafafa; --modules_color: #ffffff; --footer_back: #ffffff; --home_background_color: #ffffff;} 
+    </style> <!-- Custom CSS --> <!-- Minimize CSS files --><link rel="stylesheet" href="https://cdn-cms-s.f-static.net/versions/2/css/minimize_main.css?v=r82146" type="text/css" crossorigin="anonymous"><style>.s123-module-services.layout-1 {padding:50px 0;}.s123-module-services.layout-1 .features-container {margin-bottom:-30px;}.s123-module-services.layout-1 .service-item p {white-space:pre-wrap;word-wrap:break-word;overflow:hidden;}.s123-module-services.layout-1 .service-item {margin-bottom:51px;display:flex;flex-direction:column;}.s123-module-services.layout-1 .service-item .service-video-container {width:132px;height:132px;align-self:center;border-radius:100%;overflow:hidden;margin:5px;}.s123-module-services.layout-1 .service-item .service-video-container .services_illustration_video {width:100%;height:100%;}.s123-module-services.layout-1 .service-item .fa-stack {background-size:cover;background-position:center center;background-repeat:no-repeat;margin:5px 5px 22px;align-self:center;}@media(max-width:767px) {.s123-module-services.layout-1 .service-item .fa-stack {margin-bottom:14px;}}.s123-module-services.layout-1 .service-item .fa-stack img {width:1em;height:auto;}.s123-module-services.layout-1 .service-item p {margin-bottom:32px;}@media(max-width:767px) {.s123-module-services.layout-1 .service-item p {margin-bottom:24px;}}.s123-page-data-services.layout-1 p {white-space:pre-wrap;word-wrap:break-word;}.s123-module-services.layout-1 .service-item .servcies-more-link {align-self:center;white-space:pre-wrap;word-wrap:break-word;}.s123-page-data-services.layout-1 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-2 {padding:50px 0;}.s123-module-services.layout-2 .features-container {margin-bottom:-30px;}.s123-module-services.layout-2 .service-item p {white-space:pre-wrap;word-wrap:break-word;overflow:hidden;}.s123-module-services.layout-2 .service-item {margin-bottom:56px;}.s123-module-services.layout-2 .service-item h4.service-layout-2-video {display:inline-flex;align-items:center;width:100%;justify-content:center;}.s123-module-services.layout-2 .service-item .service-video-container {width:2.5rem;height:2.5rem;border-radius:100%;overflow:hidden;margin:5px;}.s123-module-services.layout-2 .service-item .service-video-container .services_illustration_video {width:100%;height:100%;}.s123-module-services.layout-2 .service-item .fa-stack {background-size:cover;background-position:center center;background-repeat:no-repeat;margin:5px 24px 5px 5px;}html[dir="rtl"] .s123-module-services.layout-2 .service-item .fa-stack {margin:5px 5px 5px 24px;}.s123-module-services.layout-2 .service-item .fa-stack img {width:1em;height:auto;}.s123-module-services.layout-2 .service-item .fa-stack.no-img-layout-2 {width:0;margin-inline:0;}.s123-page-data-services.layout-2 p {white-space:pre-wrap;word-wrap:break-word;}.s123-page-data-services.layout-2 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-3 .service {padding-top:32px;padding-bottom:32px;text-align:center;}.s123-module-services.layout-3 .service > * {clear:both;}.s123-module-services.layout-3 .service > h3 {margin-top:0;}.s123-module-services.layout-3 .service a {opacity:1;}.s123-module-services.layout-3 .service img,.s123-module-services.layout-3 .service .services_illustration_video {max-width:296px;max-height:166px;margin-bottom:15px;}.s123-module-services.layout-3 .service p {min-height:4.5em;}.s123-module-services.layout-3 .service .service-icon {text-align:center;min-width:150px;}.s123-module-services.layout-3 .service .service-icon i {font-size:150px;}.s123-module-services.layout-3 .service .service-icon img {width:150px;}@media ( min-width:768px ){.s123-module-services.layout-3 .service {padding:48px;text-align:left;}.s123-module-services.layout-3 .service > * {clear:none;}html[dir=rtl] .s123-module-services.layout-3 .service {text-align:right;}.s123-module-services.layout-3 .service img,.s123-module-services.layout-3 .service .service-icon,.s123-module-services.layout-3 .service .services_illustration_video {max-width:358px;max-height:201px;margin-bottom:8px;margin-right:50px;float:left;}.s123-module-services.layout-3 .service:nth-child(even) img,.s123-module-services.layout-3 .service:nth-child(even) .service-icon {margin-right:0;margin-left:50px;float:right;}html[dir=rtl] .s123-module-services.layout-3 .service img,html[dir=rtl] .s123-module-services.layout-3 .service .service-icon {margin-right:0;margin-left:50px;float:right;}html[dir=rtl] .s123-module-services.layout-3 .service:nth-child(even) img,html[dir=rtl] .s123-module-services.layout-3 .service:nth-child(even) .service-icon {margin-left:0;margin-right:50px;float:left;}}.s123-module-services.layout-3 .service .servcies-more-link {white-space:pre-wrap;word-wrap:break-word;}.s123-page-data-services.layout-3 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-4 {padding:50px 0;}.s123-module-services.layout-4 .features-container {margin-bottom:-30px;}.s123-module-services.layout-4 .service-item p {white-space:pre-wrap;word-wrap:break-word;overflow:hidden;margin-bottom:5px;}.s123-module-services.layout-4 .service-link {text-decoration:none;display:block;}.s123-module-services.layout-4 .service-item {padding:51px 20px;margin-bottom:30px;display:flex;flex-direction:column;}.s123-module-services.layout-4 .service-item .service-video-container {width:130px;height:130px;align-self:center;border-radius:100%;overflow:hidden;margin:5px;}.s123-module-services.layout-4 .service-item .fa-stack {width:130px;height:130px;}.s123-module-services.layout-4 .service-item .service-video-container .services_illustration_video {width:100%;height:auto;}.s123-module-services.layout-4 .service-item .fa-stack {background-size:cover;background-position:center center;background-repeat:no-repeat;margin:5px;align-self:center;}.s123-module-services.layout-4 .service-item .fa-stack img {width:1em;height:auto;}.s123-page-data-services.layout-4 p {white-space:pre-wrap;word-wrap:break-word;}.s123-module-services.layout-4 .service-item h4 {margin:32px 0 16px 0;}@media(max-width:767px) {.s123-module-services.layout-4 .service-item h4 {margin-bottom:8px;}}.s123-module-services.layout-4 .service-item .fa-stack.fix-primary-icon-color > i {background:#fff;}.s123-page-data-services.layout-4 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-6 {padding:50px 0;}.s123-module-services.layout-6 .features-container {margin-bottom:-85px;}.s123-module-services.layout-6 .service-item p {white-space:pre-wrap;word-wrap:break-word;opacity:0.7;width:90%;font-weight:400;}.s123-module-services.layout-6 .service-item {display:flex;flex-flow:row;margin-bottom:56px;}.s123-module-services.layout-6 .service-item .service-video-container {width:3rem;height:3rem;border-radius:100%;overflow:hidden;display:flex;justify-content:center;flex-grow:1;}.s123-module-services.layout-6 .service-item .service-video-container .services_illustration_video {width:100%;height:100%;}.s123-module-services.layout-6 .service-item .service-img-container {width:4.7em; display:flex;justify-content:center;}.s123-module-services.layout-6 .service-item .service-text-container {text-align:left;margin-left:32px;}html[dir="rtl"] .s123-module-services.layout-6 .service-item .service-text-container {text-align:right;margin-left:0;margin-right:32px;}.s123-module-services.layout-6 .service-item h4 {margin-top:0;}.s123-module-services.layout-6 .service-item .more-link {font-weight:600;}.s123-module-services.layout-6 .service-item .fa-stack i {line-height:normal;}.s123-module-services.layout-6 .service-item .fa-stack img {width:2em;height:auto;}.s123-module-services.layout-6 .service-item .fa-stack[data-is-image="true"] {width:1.5em;height:1.5em;background-size:cover;background-position:center center;background-repeat:no-repeat;}.s123-page-data-services.layout-6 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-7 {padding:50px 0;}.s123-module-services.layout-7 .features-container {margin-bottom:-30px;}.s123-module-services.layout-7 .service-item p {white-space:pre-wrap;word-wrap:break-word;overflow:hidden;width:70%;margin:auto;margin-bottom:32px;opacity:0.8;}.s123-module-services.layout-7 .service-item {margin-bottom:51px;display:flex;flex-direction:column;align-items:center;}.s123-module-services.layout-7 .service-item .service-video-container {width:99px;height:99px;align-self:center;border-radius:100%;overflow:hidden;margin:5px 5px 27px 5px;}.s123-module-services.layout-7 .service-item .service-video-container .services_illustration_video {width:100%;height:100%;}.s123-module-services.layout-7 .service-item .fa-stack {margin:5px;}.s123-module-services.layout-7 .service-item .fa-stack[data-is-icon="true"] {display:inline-flex;align-items:center;justify-content:center;}.s123-module-services.layout-7 .service-item .fa-stack[data-is-icon="true"] i {font-size:0.6em;}.s123-module-services.layout-7 .service-item .fa-stack img {width:0.6em;height:auto;}.s123-module-services.layout-7 .service-item .fa-stack[data-is-image="true"] {background-size:cover;background-position:center center;background-repeat:no-repeat;}.s123-page-data-services.layout-7 p {white-space:pre-wrap;word-wrap:break-word;margin-bottom:32px;}.s123-module-services.layout-7.layout-7 h4 {margin-top:27px;margin-bottom:16px;}@media(max-width:767px) {.s123-module-services.layout-7.layout-7 h4 {margin-top:19px;margin-bottom:8px;}}.s123-module-services.layout-7 .service-item .servcies-more-link {align-self:center;white-space:pre-wrap;word-wrap:break-word;}.s123-page-data-services.layout-7 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-8 {padding:50px 0;}.s123-module-services.layout-8 .service-item-row {margin:0;}.s123-module-services.layout-8 .services-item-container {margin-bottom:50px;padding:0;}@media(max-width:767px) {.s123-module-services.layout-8 .services-item-container {flex-direction:column;align-items:center;}}.s123-module-services.layout-8 .services-category .row:last-child .services-item-container {margin-bottom:0;}.s123-module-services.layout-8 .services-item-container .service-item {display:flex;flex-wrap:wrap;justify-content:center;padding:10px;}.s123-module-services.layout-8 .services-item-container .service-img-container {background-position:center center;background-repeat:no-repeat;background-size:cover;margin-bottom:15px; height:250px;width:250px;}.s123-module-services.layout-8 .service-item .service-video-container {height:250px;width:250px;margin-bottom:15px;}.s123-module-services.layout-8 .services-item-container.background-primary-color a,.s123-module-services.layout-8 .services-item-container.bg-primary-black a { color:#fff;}.s123-module-services.layout-8 .services-item-container.background-primary-color a .svg-m,.s123-module-services.layout-8 .services-item-container.bg-primary-black a .svg-m {background:#fff;}.s123-module-services.layout-8 .services-item-container .service-text-container {width:250px;}@media(min-width:768px) {.s123-module-services.layout-8 .services-item-container .service-img-container,.s123-module-services.layout-8 .service-item .service-video-container {height:160px;width:160px;margin-bottom:0; }.s123-module-services.layout-8 .services-item-container .service-text-container {width:calc(100% - 160px);padding-left:40px;text-align:left;}html[dir=rtl] .s123-module-services.layout-8 .services-item-container .service-text-container {text-align:right;padding-right:40px;padding-left:0;}}.s123-module-services.layout-8 .service-item .service-video-container .services_illustration_video {width:100%;height:100%;}.s123-module-services.layout-8 .service-item .fa-stack i,.s123-module-services.layout-8 .service-item .fa-stack img {width:100%;height:100%;}.s123-module-services.layout-8 .service-item .fa-stack.fix-primary-icon-color > i {background:#fff;}.s123-module-services.layout-8 .service-item .fa-stack {width:100%;height:100%;background-size:cover;background-position:center center;background-repeat:no-repeat;border-radius:8px;}.s123-module-services.layout-8 .service-item .more-link {font-weight:600;}.s123-page-data-services.layout-8 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}.s123-module-services.layout-9 {padding:50px 0;}.s123-module-services.layout-9 .service-grid {display:grid;grid-template-columns:repeat(3,1fr);grid-gap:30px;}.s123-module-services.layout-9 .service-grid.grid-2 {grid-template-columns:repeat(2,1fr);}.s123-module-services.layout-9 .service-grid.grid-4 {grid-template-columns:repeat(4,1fr);}@media(max-width:768px) {.s123-module-services.layout-9 .service-grid,.s123-module-services.layout-9 .service-grid.grid-2,.s123-module-services.layout-9 .service-grid.grid-4 {grid-template-columns:repeat(2,1fr);grid-gap:20px;}}@media(max-width:480px) {.s123-module-services.layout-9 .service-grid,.s123-module-services.layout-9 .service-grid.grid-2,.s123-module-services.layout-9 .service-grid.grid-4 {grid-template-columns:repeat(1,1fr);grid-gap:20px;}}.s123-module-services.layout-9 .service-item {text-align:left;text-decoration:none;cursor:pointer;}html[dir="rtl"] .s123-module-services.layout-9 .service-item {text-align:right;}.s123-module-services.layout-9 .service-item h4 {margin:32px 0 16px 0;color:#000;font-weight:bold;}@media(max-width:767px) {.s123-module-services.layout-9 .service-item h4 {margin:24px 0 8px 0;}}.s123-module-services.layout-9 .service-item p {color:#000;overflow-wrap:anywhere;}.s123-module-services.layout-9 .service-item .service-video-container {width:100%;height:201px;}@media(max-width:767px) {.s123-module-services.layout-9 .service-item .service-video-container {height:184px;}}.s123-module-services.layout-9 .service-item .service-video-container .services_illustration_video {width:100%;height:100%;}.s123-module-services.layout-9 .service-item .fa-stack {background-size:cover;background-position:center center;background-repeat:no-repeat;align-self:center;width:100%;height:201px;border-radius:8px;}@media(max-width:767px) {.s123-module-services.layout-9 .service-item .fa-stack {height:184px;}}.s123-module-services.layout-9 .service-item .fa-stack img {width:100%;height:100%;}.s123-page-data-services.layout-9 .services-category:not([data-categories-filter="s123-g-show-all"]) {display:none;}</style><link rel="stylesheet" href="https://cdn-cms-s.f-static.net/versions/2/css/websiteCSS.css?w=&orderScreen=&websiteID=6720366&onlyContent=&tranW=&v=css_r157_35569239" class="reloadable-css" type="text/css"> <!-- Froala Editor CSS --> <!-- Google AdSense --> </head><body id="page-top"> <div class="body"> <div id="websiteHeader"> <nav id="mainNav" class="hidden-xs navbar-default navbar-fixed-top  opacity-no"> <div class="site_container"> <div class="navbar-header"> <a href="#page-top" class="logo_name navbar-brand s123-w-l-s page-scroll"><span class="website-name">portfolio</span></a> </div> <div id="top-menu"> <ul class="navPages nav navbar-nav"> <li class="moduleMenu active"><a class="page-scroll homepageMenu" href="#page-top"><span class="txt-container">Home</span></a></li><li class="moduleMenu" data-menu-module-id="56f3eb72d06d1"><a class="page-scroll" href="#section-56f3eb72d06d1"><span class="txt-container">About me</span></a></li><li class="moduleMenu" data-menu-module-id="631d7e73914ec"><a class="page-scroll" href="#section-631d7e73914ec"><span class="txt-container">Education</span></a></li><li class="moduleMenu" data-menu-module-id="5fc5be564a59e"><a class="page-scroll" href="#section-5fc5be564a59e"><span class="txt-container">My skills</span></a></li><li class="moduleMenu" data-menu-module-id="56f3eb72d83fa"><a class="page-scroll" href="#section-56f3eb72d83fa"><span class="txt-container">Contact</span></a></li> </ul> <ul class="navActions nav navbar-nav"> <!-- Multi Currency --> <!-- Cart --> <li class="header-cart-wrapper orderOpenCart show-static"><a class="actionButton btn-primary-action-button-4" role="button"><i class="svg-m s123-icon-converter " data-icon-name="shopping-cart" style=" mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/shopping-cart.svg?v=2'); -webkit-mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/shopping-cart.svg?v=2');" data-ie11-classes="">&nbsp;</i><span class="count"></span></a></li> <!-- Menu Action Buttons --> </ul> </div> </div> </nav> <!-- Sticky Menu --> <input type="hidden" id="stickyMenu" name="stickyMenu" value="on"> </div> <nav id="mainNavMobile" class="navbar-fixed-top"> <div class="navPagesLeft"> <div class="header-menu-wrapper"><a data-close-location="left" data-menu-color="" data-menu-type="0" data-menu-align="center" data-is-mobile="true" class="mobile-menu-btn actionButton" role="button" data-container="body" data-toggle="menuCallActionIcons"><i class="svg-m s123-icon-converter " data-icon-name="bars" style=" mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/bars.svg?v=2'); -webkit-mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/bars.svg?v=2');" data-ie11-classes="">&nbsp;</i></a></div> </div> <div class="navbar-header"> <a href="#page-top" class="logo_name navbar-brand s123-w-l-s page-scroll"><span class="website-name">portfolio</span></a> </div> <div class="navPagesRight"> <ul class="navActions nav navbar-nav"> <!-- Cart --> <li class="header-cart-wrapper orderOpenCart show-static"><a class="actionButton btn-primary-action-button-4" role="button"><i class="svg-m s123-icon-converter " data-icon-name="shopping-cart" style=" mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/shopping-cart.svg?v=2'); -webkit-mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/shopping-cart.svg?v=2');" data-ie11-classes="">&nbsp;</i><span class="count"></span></a></li> </ul> </div> </nav> <div id="top-menu-mobile" style="display:none;"> <ul> <!-- Website Menu Pages --> <li class="moduleMenu active"><a class="page-scroll homepageMenu" href="#page-top"><span class="txt-container">Home</span></a></li><li class="moduleMenu" data-menu-module-id="56f3eb72d06d1"><a class="page-scroll" href="#section-56f3eb72d06d1"><span class="txt-container">About me</span></a></li><li class="moduleMenu" data-menu-module-id="631d7e73914ec"><a class="page-scroll" href="#section-631d7e73914ec"><span class="txt-container">Education</span></a></li><li class="moduleMenu" data-menu-module-id="5fc5be564a59e"><a class="page-scroll" href="#section-5fc5be564a59e"><span class="txt-container">My skills</span></a></li><li class="moduleMenu" data-menu-module-id="56f3eb72d83fa"><a class="page-scroll" href="#section-56f3eb72d83fa"><span class="txt-container">Contact</span></a></li> <!-- Website Footer Pages --> </ul> </div> <div id="s123PjaxMainContainer"> <section id="top-section" class="homepage_style_1 top_magic_homepage_kind_2  old_homepage_layout_log old_homepage_layout_structure_log "><div class="magic_homepage magic_homepage_split magic_homepage_kind_2 homepage-layout-24"><div class="home_main_wrapper main_ele_place_side" data-main-goal="image" data-second-goal="buttons"><div class="left"><div class="side_text_object_position_center_left home_third_background_color"><div class="box_container boxStyle_"><div class="hm-t-c boxBorder  ele_align_left"><h1 id="home_siteSlogan" class="animated fadeInDown weight700   background8 hm-txt" style="display:none"></h1><h2 id="home_siteSlogan_2" class=" weight700   background8 hm-txt" >HI, I'm Bilal Gujjar</h2><p id="home_SecondSiteSlogan" class=" weight400  shadow1 background9 hm-txt" style="display:none"></p></div><div class="homepage_goal space_from_bottom_secondGoal ele_align_left secondGoal" style="position: relative;max-width: 100%;" data-type="buttons"><div class="promoButtons align_left"><a id="home_buttonText" class="btn btn-primary btn-xl btn-primary-black w-helper" onclick="MoveFirstSection(1);" data-w-helper-filter="buttons"><span class="h-b-container"><span class="h-b-t"><span class="h-b-t">CV</span></span></span></a><a id="home_buttonText_1" class="btn btn-primary btn-xl  w-helper" style="display:none" onclick="MoveFirstSection(1);" data-w-helper-filter="buttons"><span class="h-b-container"><span class="h-b-t"><span class="h-b-t"></span></span></span></a></div></div></div></div></div><div class="right"><div class="home_background_wrapper"><div class="home-image-bg colors"></div></div><div class="objectPlace object_position_center_center"><div class="homepage_goal space_from_side_mainGoal mainGoal" style="position: relative;max-width: 100%;" data-type="image"><div class="w-helper" style="display:inline-block;" data-w-helper-filter="image"><img class="home_custom_image" src="https://static1.s123-cdn-static-a.com/uploads/6720366/2000_631d7c12be1f1.jpg"></div></div></div></div></div></div></section><div id="s123ModulesContainer" class="s123-modules-container"><section id="section-56f3eb72d06d1" class="s123-module s123-module-about layout-2 layout-2 bg-primary" data-module-id="56f3eb72d06d1" data-module-type-num="16"> <div data-aos="fade-up" class="container-fluid page_header_style noBackground"><div class="row"><div class="container moduleTitleContainer"><div class="row modulesTitle text-center"><div class="col-xs-12"><div class="page-header-wrap"><H2 id="section-56f3eb72d06d1-title"  class="s123-page-header  ">About me</H2><div class="dot-line-dot"><span></span><hr><span></span></div></div></div></div></div></div></div> <div class="container preview-highlighter" data-aos="fade-up"> <div class="row sides"><div class="col-xs-12 col-md-6"> <div class="responsive-handler fr-view breakable ">I am a Computer Scientist who just graduated from the premier IT university <strong><em>FAST NATIONAL University Faisalabad in Computer Science&nbsp;</em></strong>Majors. I am a highly skilled professional developer who loves to take on the challenges and then solve them.<br>We provide a variety of high-quality services that are designed for business owners who need affordable, reliable, and quality support.<br>With years of experience and hundreds of happy and satisfied customers, we established a team of hardworking professionals and experts to meet all your needs. Our staff is committed to getting the best outcome for your business or project.</div> </div> <!-- Images --> <div class="col-xs-12 col-md-6"> <div class="separateImages text-center"><img class="img-rounded img-responsive" src="https://static1.s123-cdn-static-a.com/ready_uploads/media/5192531/400_5ebe2303945ba.jpg" alt="About me"/></div> </div> </div> </div></section><section id="section-631d7e73914ec" class="s123-module s123-module-services layout-8" data-module-id="631d7e73914ec" data-module-type-num="3"><div data-aos="fade-up" class="container-fluid page_header_style noBackground"><div class="row"><div class="container moduleTitleContainer"><div class="row modulesTitle text-center"><div class="col-xs-12"><div class="page-header-wrap"><H2 id="section-631d7e73914ec-title"  class="s123-page-header  ">Education</H2><div class="dot-line-dot"><span></span><hr><span></span></div></div></div></div></div></div></div><div class="container"  data-aos="fade-up"><!-- Adds top ---><!-- Container ---><div class="text-center features-container"><!-- Categories area --><div class="row" style="display:none;"><div class="s123-categories col-xs-12"><ul class="items-categories-container"><li data-categories-filter="all"><a href="#">All</a></li></ul></div></div><!-- Items area --><div class="text-center services-category" data-categories-filter="all"><div class="row service-item-row"><div class="services-item-container preview-highlighter col-xs-12 col-sm-12 col-md-8 col-md-pull-2 col-md-push-2 " data-unique-id="631d7e7523aa8"><div class="service-item "><div class="service-img-container"> <div data-is-image="true" class="fa-stack fa-2x bgLazyload" data-bg="https://static1.s123-cdn-static-a.com/uploads/6720366/400_631d7f9a62180.png"></div></div><div class="service-text-container"><h3><strong>FAST National university,  Faisalabad</strong></h3><p>BACHELOR OF SCIENCE OF COMPUTER SCIENCE</p></div></div></div></div><div class="row service-item-row"><div class="services-item-container preview-highlighter col-xs-12 col-sm-12 col-md-8 col-md-pull-2 col-md-push-2 " data-unique-id="631d7e7526756"><div class="service-item "><div class="service-img-container"> <div data-is-image="true" class="fa-stack fa-2x bgLazyload" data-bg="https://static1.s123-cdn-static-a.com/uploads/6720366/400_631d806633e74.png"></div></div><div class="service-text-container"><h3><strong>Akhuwat FIRST College , Faisalabad</strong></h3><p>FSC Pre Engineering</p></div></div></div></div><div class="row service-item-row"><div class="services-item-container preview-highlighter col-xs-12 col-sm-12 col-md-8 col-md-pull-2 col-md-push-2 " data-unique-id="631d7e7529541"><div class="service-item "><div class="service-img-container"> <div data-is-image="true" class="fa-stack fa-2x bgLazyload" data-bg="https://static1.s123-cdn-static-a.com/uploads/6720366/400_631d8113de39b.png"></div></div><div class="service-text-container"><h3><strong>Govt. High. School , Faisalabad</strong></h3><p>Secondary School Education</p></div></div></div></div></div></div><!-- Adds bottom ---></div></section><section id="section-5fc5be564a59e" class="s123-module s123-module-percentage layout-1 bg-primary" data-module-id="5fc5be564a59e" data-module-type-num="110"><div data-aos="fade-up" class="container-fluid page_header_style noBackground"><div class="row"><div class="container moduleTitleContainer"><div class="row modulesTitle text-center"><div class="col-xs-12"><div class="page-header-wrap"><H2 id="section-5fc5be564a59e-title"  class="s123-page-header  ">My skills</H2><div class="dot-line-dot"><span></span><hr><span></span></div></div></div></div></div></div></div><div class="container" data-aos="fade-up"><!-- Ads Top --><!-- Container --><div class="row text-center"><div class="col-xs-12 percentages-container"><div class="percentages percentageNoBg percentages-flex"><div class="percentage s123-box-clean preview-highlighter" data-unique-id="5fc5be57258d4"><!-- Chart --><div class="easy-pie-chart box-text-primary" data-is-visible="false" data-percent="96" data-custom-bar-color="#c62020" data-is-default-color=""><span class="percent">96%</span></div><!-- Description --><h4><strong>c++</strong></h4></div><div class="percentage s123-box-clean preview-highlighter" data-unique-id="5fc5be572a2ce"><!-- Chart --><div class="easy-pie-chart box-text-primary" data-is-visible="false" data-percent="81" data-custom-bar-color="#911938" data-is-default-color=""><span class="percent">81%</span></div><!-- Description --><h4><strong>HTML/CSS</strong></h4></div><div class="percentage s123-box-clean preview-highlighter" data-unique-id="5fc5be572d874"><!-- Chart --><div class="easy-pie-chart box-text-primary" data-is-visible="false" data-percent="90" data-custom-bar-color="#c62020" data-is-default-color=""><span class="percent">90%</span></div><!-- Description --><h4><strong>Video editing</strong></h4></div></div></div></div><!-- Ads bottom --></div></section><section id="section-56f3eb72d83fa" class="s123-module s123-module-contact layout-1" data-module-id="56f3eb72d83fa" data-module-type-num="7"> <div data-aos="fade-up" class="container-fluid page_header_style noBackground"><div class="row"><div class="container moduleTitleContainer"><div class="row modulesTitle text-center"><div class="col-xs-12"><div class="page-header-wrap"><H2 id="section-56f3eb72d83fa-title"  class="s123-page-header  ">Contact</H2><div class="dot-line-dot"><span></span><hr><span></span></div></div></div></div></div></div></div> <div class="container" data-aos="fade-up"> <div class="row text-center"> <div class="col-md-5 preview-highlighter" style="text-align: center;"> <ul class="list-unstyled contact-as-details-container"> <li>Faisalabad, Punjab, Pakistan</li> </ul> <ul class="list-unstyled contact-as-details-container"> <li><a href="tel:+92-3014325662" ><i class="svg-m s123-icon-converter " data-icon-name="phone" style=" mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/phone.svg?v=2'); -webkit-mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/phone.svg?v=2');" data-ie11-classes="">&nbsp;</i><span dir="ltr">+92-3014325662</span></a></li> <li><a href="mailto:bilalgujjar2967@gmail.com"><i class="svg-m s123-icon-converter  fa-fw" data-icon-name="envelope-o" style=" mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/envelope-o.svg?v=2'); -webkit-mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/envelope-o.svg?v=2');" data-ie11-classes=" fa-fw">&nbsp;</i>bilalgujjar2967@gmail.com</a></li> </ul> <br> <ul class="list-inline social-details-container"> <li><a href="https://www.facebook.com/profile.php?id=100072025224844" target="_blank"><i class="svg-m s123-icon-converter  fa-2x fa-fw" data-icon-name="facebook" style=" mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/brand-1/facebook.svg?v=2'); -webkit-mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/brand-1/facebook.svg?v=2');" data-ie11-classes=" fa-2x fa-fw">&nbsp;</i></a></li> <li><a href="https://www.snapchat.com/add/itx_bilalgujjar?share_id=0wHktL1WkS0&locale=en-US" target="_blank"><i class="svg-m s123-icon-converter  fa-2x fa-fw" data-icon-name="snapchat-square" style=" mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/snapchat-square.svg?v=2'); -webkit-mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/snapchat-square.svg?v=2');" data-ie11-classes=" fa-2x fa-fw">&nbsp;</i></a></li> </ul> </div> <form class="breakable contactUsForm custom-form s123-custom-form-multi-steps" data-thanks-msg="Thanks for contacting to us" data-date-format="m/d/Y" data-click-action="thankYouMessage"> <div class="preview-highlighter col-md-6 col-md-offset-1"> <div class="text-left"> <div class="custom-form-steps" data-total-steps="1"><div class="custom-form-step step-1" data-step="1"><div class="row"><div class="col-xs-12 c-f-field-type" data-field-type="text"><div class="form-group"><label for="text-63147022e1f59">Name</label><span>*</span><input type="text"  name="text-63147022e1f59" placeholder="Name" class="form-control" required data-msg-required="This field is required."></div></div></div><div class="row"><div class="col-xs-12 c-f-field-type" data-field-type="text"><div class="form-group"><label for="text-63147022e2d5f">Phone</label><input type="text"  name="text-63147022e2d5f" placeholder="Phone" class="form-control"></div></div></div><div class="row"><div class="col-xs-12 c-f-field-type" data-field-type="email"><div class="form-group"><label for="email-63147022e380f">Email address</label><span>*</span><input type="email"  name="email-63147022e380f" placeholder="Email address" class="form-control" required data-msg-required="This field is required."></div></div></div><div class="row"><div class="col-xs-12 c-f-field-type" data-field-type="textarea"><div class="form-group"><label for="textarea-63147022e431b">Message</label><textarea  name="textarea-63147022e431b" placeholder="Message" class="form-control" rows="4"></textarea></div></div></div><div class="row"><div class="col-xs-12 c-f-field-type" data-field-type="email"><div class="form-group"><label for="email-1662284273820">Email Field</label><input type="email"  name="email-bilalghafoor251@gmail.com" placeholder="Email Field" class="form-control"></div></div></div></div><button type="submit" class="btn btn-primary btn-block submit-single-step-btn">Contact Us</button></div> </div> </div> <input type="hidden" name="w" value=""> <input type="hidden" name="websiteID" value="6720366"> <input type="hidden" name="moduleID" value="56f3eb72d83fa"> <input type="hidden" name="layout" value="1"> <input type="hidden" name="recaptchaToken" value=""> </form> </div> </div> <div class="s123-module-contact-map"> <div id="contact_631d8c8aa0502" class="map-container" data-src="https://maps-cdn.site123.com/include/globalMapDisplay.php?q=Faisalabad%2C+Punjab%2C+Pakistan&z=15&l=en&ilfc=1"></div> </div> </section></div><footer class="global_footer footer_1"> <div class="container"> <div class="row"> <div class="side1 col-xs-12 col-sm-6 col-md-6"> <div> <span class="footer_name website-name-preview-helper">portfolio</span> </div> <div>   Made by <b><i>Bilal Gujjar </i></b> 
+                            </div><div class="clearfix upgrade-website-preview-helper"> <div class="side2 col-xs-12 col-sm-6 col-md-6"><ul class="navPages nav navbar-nav hidden-xs"><li class="moduleMenu active"><a class="page-scroll homepageMenu" href="#page-top"><span class="txt-container">Home</span></a></li><li class="moduleMenu" data-menu-module-id="56f3eb72d06d1"><a class="page-scroll" href="#section-56f3eb72d06d1"><span class="txt-container">About me</span></a></li><li class="moduleMenu" data-menu-module-id="631d7e73914ec"><a class="page-scroll" href="#section-631d7e73914ec"><span class="txt-container">Education</span></a></li><li class="moduleMenu" data-menu-module-id="5fc5be564a59e"><a class="page-scroll" href="#section-5fc5be564a59e"><span class="txt-container">My skills</span></a></li><li class="moduleMenu" data-menu-module-id="56f3eb72d83fa"><a class="page-scroll" href="#section-56f3eb72d83fa"><span class="txt-container">Contact</span></a></li></ul><div class="social-details-container social-icons preview-highlighter" data-module-type-num="24"><ul class="list-inline"><li><a href="https://www.facebook.com/profile.php?id=100072025224844" target="_blank"><i class="svg-m s123-icon-converter  fa-1x" data-icon-name="facebook" style=" mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/brand-1/facebook.svg?v=2'); -webkit-mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/brand-1/facebook.svg?v=2');" data-ie11-classes=" fa-1x">&nbsp;</i></a></li><li><a href="https://www.snapchat.com/add/itx_bilalgujjar?share_id=0wHktL1WkS0&amp;locale=en-US" target="_blank"><i class="svg-m s123-icon-converter  fa-1x" data-icon-name="snapchat-square" style=" mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/snapchat-square.svg?v=2'); -webkit-mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/snapchat-square.svg?v=2');" data-ie11-classes=" fa-1x">&nbsp;</i></a></li></ul></div></div> </div> </div>  <a id="gotoTop" class="gotoTop page-scroll" style="display: none;" href="#page-top"><i class="svg-m s123-icon-converter " data-icon-name="angle-up" style=" mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/angle-up.svg?v=2'); -webkit-mask: url('https://static1.s123-cdn-static-a.com/ready_uploads/svg/angle-up.svg?v=2');" data-ie11-classes="">&nbsp;</i></a> <input type="hidden" id="layoutNUM" name="layoutNUM" value="1"> <input type="hidden" id="footer_layout" name="footer_layout" value="1"> <input type="hidden" id="layoutMenuPositionTXT" name="layoutMenuPositionTXT" value="top"> <input type="hidden" id="versionNUM" name="versionNUM" value="2"> <input type="hidden" id="w" name="w" value=""> <input type="hidden" id="websiteID" value="6720366"> <input type="hidden" id="enable_as_theme" value="0"> <input type="hidden" id="onepage" value="1"> <input type="hidden" id="pjaxSupported" value="1"> <input type="hidden" id="moduleTypeNUM" class="s123-js-pjax" name="moduleTypeNUM" value=""> <input type="hidden" id="hasEcommerce" value="0"> <input type="hidden" id="pageUniqueID" class="s123-js-pjax" name="pageUniqueID" value=""> <script>        var menuScrollOffset = 70;
+
+
+		var packageNUM = 1;
+        var domain = '63146f99262ad.site123.me';
+        var languageCode = 'en';
+        var multiLanCode = '';
+        var globalLanguageChildLan          = '';
+        var websiteLanguageCode             = '';
+        var websiteLanguageCountryCode      = '';
+        var websiteLanguageCountryFullCode  = '';
+        var IsManagment                     = '1';
+        var isMinimize                      = 1;
+
+        var $GLOBALS = {
+            'cdn-user-files' : 'https://static.s123-cdn-static-d.com',
+            'maps-display-domain' : 'https://maps-cdn.site123.com',
+            'cdn-system-files' : 'https://cdn-cms-s.f-static.net',
+            'cdn-images-files' : 'https://static1.s123-cdn-static-a.com',
+            'v-cache' : 'r82146',
+            'is_local_server' : false        };
+        var longFreeCustomer = true;
+                // set progressive web applications settings object for published websites only
+        var pwaSettings = {
+            enableMessage: false,
+        };
+              
+    </script> <!-- JavaScript Translations Object --><script>var translations = {
+		"sent"	  		   : "Sent!",
+		"enterYourQuery" 	   : "Enter your query",
+		"loading"		   : "Loading...",
+		"closeEsc"		   : "Close (Esc)",
+		"previousLeftArrowKey"	   : "Previous (Left arrow key)",
+		"NextRightArrowKey"	   : "Next (Right arrow key)",
+		"of"		   	   : "of",
+		"more"		   	   : "MORE",
+		"cart"		   	   :"Cart",
+		"SearchResult"		   : "Search Result",
+		"ChooseTheAmountDonate"    : "Choose the amount you want to donate",
+		"blogReviewMessage"	   : "Thank you! Your comment will be published after being approved by the admin.",
+		"productReviewMessage"	   : "Thank you! Your review will be published after being approved by the administrator.",
+		"ConfirmMailingSubscrive"  : "Please Confirm Your Email Address to Complete Your Subscription",
+		"subscribeTellAboutYou"  : "Please tell us about yourself",
+		"imageCouldNotLoaded"      : "<a href=\"%url%\">The image<\/a> could not be loaded.",
+		"searchInputValidation"    : "Please enter a valid search query.",
+		"jqueryValidMsgRequire"    : "This field is required.",
+		"jqueryValidMsgRemote"     : "Please fix this field.",
+		"jqueryValidMsgEmail"      : "Please enter a valid email address.",
+		"jqueryValidMsgUrl"        : "Please enter a valid URL.",
+		"jqueryValidMsgDate"       : "Please enter a valid date.",
+		"jqueryValidMsgDateISO"    : "Please enter a valid date (ISO).",
+		"jqueryValidMsgNumber"     : "Please enter a valid number.",
+		"jqueryValidMsgDigits"     : "Please enter only digits.",
+		"jqueryValidMsgCreditcard" : "Please enter a valid credit card number.",
+		"jqueryValidMsgEqualTo"    : "Please enter the same value again.",
+		"jqueryValidMsgAccept"     : "Please enter a value with a valid extension.",
+		"jqueryValidMsgMaxlength"  : "Please enter no more than {0} characters.",
+		"jqueryValidMsgMinlength"  : "Please enter at least {0} characters.",
+		"jqueryValidMsgRangelength":"Please enter a value between {0} and {1} characters long.",
+		"jqueryValidMsgRange"	   : "Please enter a value between {0} and {1}.",
+		"jqueryValidMsgMax"	   : "Please enter a value less than or equal to {0}.",
+		"jqueryValidMsgMin"	   : "Please enter a value greater than or equal to {0}.",
+		"sending"		   : "Sending",
+		"firstName"		   : "First Name",
+		"lastName"		   : "Last Name",
+		"phone"			   : "Phone",
+		"emailAddress"		   : "Email address",
+		"fileUpload"		   : "File Upload",
+		"send"			   : "Send",
+		"search"		   : "Search",
+		"productvalidatorPopover"  : "Required field",
+		"SpecialRequest" 	   : "Special Request",
+		"restaurantReservation"    : "Restaurant Reservation",
+		"ThankYouAuto"		   : "Order completed, thank you for your order!",
+		"ThankYouManual"	   : "Order is not completed yet, we will contact you soon",
+		"Ok"			   : "OK",
+		"OrderNumber"		   : "Order Number",
+		"Date"			   : "Date",
+		"Hour"			   : "Hour",
+		"TableSize"		   : "Table Size",
+		"NoAvailableTime"	   : "Sorry, there is no available time for this date, please try another date.",
+		"message"	           : "Message",
+		"ThankYou"	           : "Thank you",
+		"error_title"	   	   : "Error",
+		"error_body"	   	   : "Oops something went wrong",
+		"limitTickets"	   : "Limit of:",
+		"tickets"	   : "Tickets",
+		"registrationClosed"       : "Registration is closed. Please contact us for more information.",
+		"Sunday"		   : "Sunday",
+		"Monday"		   : "Monday",
+		"Tuesday"		   : "Tuesday",
+		"Wednesday"		   : "Wednesday",
+		"Thursday"		   : "Thursday",
+		"Friday"		   : "Friday",
+		"Saturday"		   : "Saturday",
+		"foodDeliverybootBoxTitle" : "Order Window",
+		"addToCart"                : "Add To Cart",
+		"save"                	   : "Save",       
+		"ThankYouAfterSubmmit" 	   : "Thank you for contacting us. We have received your message and will respond to you soon.",    
+		"country" 					: "Country",
+		"productQuntityLimit" 		: "The product is limited to a maximum of {{units_limitation}} units.",
+		"productQuntityLimitMin" 		: "The product is limited to a minimum of {{units_limitation}} units.",
+		"forumDeleteTopic" 		: "Deleting a topic will also permanently remove all related replies. Are you sure you want to delete it?",
+		"forumDeleteTopicTitle" 	: "Delete Topic",
+		"forumDeleteReply" 		: "Are you sure you want to delete this reply?",
+		"forumDeleteReplyTitle" 	: "Delete Reply",
+		"forumNewTopic" 	: "New Topic",
+		"forumCreateNewTopic" 	: "Create a new topic",
+		"forumCountOfTotalPosts" 	: "Post a total of {{numbers_of_posts}} posts",
+		"forumSearchPlaceholder" 	: "search topics, posts, or categories",
+		"forumLastReply" 	: "Last Reply",
+		"follow" 	: "Follow",
+		"following" 	: "Following",
+		"forumReplies" 	: "Replies",
+		"forumFrequentPosters" 	: "Frequent Posters",
+		"chooseCategory" 	: "Choose Category",
+		"linkCopiedToClipboard" 	: "Link copied to clipboard",
+		"edit" 	: "Edit",
+		"settings" 	: "Settings",
+		"created" 	: "Created",
+		"seeMore" 	: "See More",
+		"options" 	: "Options",
+		"joined" 	: "Joined",
+		"posted" 	: "Posted",
+		"category" 	: "Category",
+		"areYouSure": "Are you sure?",
+		"yes" 	: "Yes",
+		"no" 	: "No",
+		"insertTopicTitle" 	: "Insert Topic Title",
+		"insertTopicMessage" 	: "Insert Message Topic",
+		"reply" 	: "Reply",
+		"addReply" 	: "Add reply",
+		"address" 	: "Address:",
+		"city" 	: "City:",
+		"state" 	: "State:",
+		"zipCode" 	: "Zip\/Postal Code:",
+		"instructions" 	: "Instructions:",
+		"country_v2" : "Country:",
+		"chooseDate": "Choose Date",
+		"chooseDateAndTime": "Choose Date & Time",
+		"chooseTime": "Choose Time",
+		"total" : "Total:",
+		"reviewBad": "bad",
+		"reviewPoor": "poor",
+		"reviewRegular": "regular",
+		"reviewGood": "good",
+		"reviewGorgeous": "gorgeous",
+		"popupButtonSelected": "Select",
+		"eCommerceSort": {
+			"sortBy": "Sort By",
+			"recommended": "Recommended",
+			"byHighPrice": "Price, high to low",
+			"byLowerPriceBy": "Price, low to high",
+		},
+		"globalContactEmail": {
+			"fullName": "Full Name",
+			"description": "Description",
+			"subject": "Subject",
+			"contactUs": "Contact Us",
+			"infoBox": "Fill out the form or send a direct email to: {{email_address}}",
+			"thankYouMessage": "Thank you for contacting us.",
+			"thankYouCloseBtn": "Close"		},
+		"editStructure": "Edit Structure",
+		"editLogo": "Edit",
+		"eventNumberOfTickets": "Choose how many tickets you would like to purchase.",
+		"magicBtn": {
+			"editMagicContactButton": "Edit Contact", 
+			"editMagicShareButton": "Edit Share", 
+			"contactUs": {
+				"title": "Contact",
+				"submitBtn": "Contact Us",
+				"ThankYouAfterSubmmit": "Thank you for contacting us. We have received your message and will respond to you soon.",
+				"fields": {
+					"name": "Name",
+					"phone": "Phone",
+					"emailAddress": "Email address",
+					"emailAddressValidationdMsg": "Please enter a valid email.",
+					"message": "Message",
+					"requiredMsg": "This field is required.",
+				}
+			},
+			"copyLink": {
+				"success": "The link has been copied to the clipboard.",
+			},
+			"ExternalLinksPreventor": {
+				"title": "Published Version Only",
+				"previewExternalLinkMsg": "You are trying to exit to an external link from your website's preview mode. Please publish your website and try again from the URL of your website.",
+			},
+			"facebookMessenger": {
+				"title": "Facebook",
+			},
+			"whatsApp": {
+				"title": "WhatsApp",
+			},
+			"phone": {
+				"title": "Phone",
+			},
+			"skype": {
+				"title": "Skype",
+			},
+			"telegram": {
+				"title": "Telegram",
+			},
+			"facebook": {
+				"title": "Facebook",
+			},
+			"twitter": {
+				"title": "Twitter",
+			},
+			"pinterest": {
+				"title": "Pinterest",
+			},
+			"gmail": {
+				"title": "Gmail",
+			},
+			"linkedIn": {
+				"title": "LinkedIn",
+			},
+			"tumblr": {
+				"title": "Tumblr",
+			},
+			"emailApp": {
+				"title": "Email App",
+			},
+			"copyLink": {
+				"title": "Copy Link",
+			}
+		},
+		"fillOutAtLeastOneField": "You need to fill out at least one field before you submit this form.",
+		"productCallToAction": {
+			"fullName": "Full Name",
+			"description": "Description",
+			"subject": "Subject",
+			"title": "Contact Us",
+			"infoBox": "Please fill out the following form if you are interested in this product:",
+			"thankYouMessage": "Thank you for contacting us.",
+			"thankYouCloseBtn": "Close",
+			"phone": "Phone",
+			"productName": "Product Name:"		},
+		"flipClock": {
+			"years"   : "Years",
+			"months"  : "Months",
+			"days"    : "Days",
+			"hours"   : "Hours",
+			"minutes" : "Minutes",
+			"seconds" : "Seconds"		},
+		"previewExternalLinkTitle": "External link",
+		"previewExternalLinkMsg": "You are trying to exit to an external link {{externalLink}} from the control panel, which is disabled here. Please go to full screen preview to get it working.",
+		"returnPolicy": "Return Policy",
+		"calendarHandler": {
+			"days": {
+				"sunday": "Sunday",
+				"monday": "Monday", 
+				"tuesday": "Tuesday", 
+				"wednesday": "Wednesday", 
+				"thursday": "Thursday", 
+				"friday": "Friday", 
+				"saturday": "Saturday"			},
+			"daysShort": {
+				"sun": "Sun", 
+				"mon": "Mon", 
+				"tue": "Tue", 
+				"wed": "Wed", 
+				"thu": "Thu", 
+				"fri": "Fri", 
+				"sat": "Sat"			},
+			"daysMin": {
+				"su": "Sun", 
+				"mo": "Mon", 
+				"tu": "Tue", 
+				"we": "Wed", 
+				"th": "Thu", 
+				"fr": "Fri", 
+				"sa": "Sat"			},
+			"months": {
+				"january": "January", 
+				"february": "February",
+				"march": "March", 
+				"april": "April", 
+				"may": "May", 
+				"june": "June", 
+				"july": "July", 
+				"august": "August", 
+				"september": "September", 
+				"october": "October", 
+				"november": "November", 
+				"december": "December"			},
+			"monthsShort": {
+				"jan": "Jan", 
+				"feb": "Feb", 
+				"mar": "Mar", 
+				"apr": "Apr", 
+				"may": "May", 
+				"jun": "Jun", 
+				"jul": "Jul", 
+				"aug": "Aug", 
+				"sep": "Sep", 
+				"oct": "Oct", 
+				"nov": "Nov", 
+				"dec": "Dec"			},
+			"today": "Today",
+		},
+				"layouts": "Layouts",
+		"pages": "Pages",
+		"remove": "Remove"	};</script><!-- JavaScript Translations Object --> <!-- CSS Minimize Bottom --> <link rel="stylesheet" class="defer-css" data-href="https://cdn-cms-s.f-static.net/versions/2/css/minimize-bottom.css?v=r82146" type="text/css" crossorigin="anonymous"> <!-- Minimize JS files --> <script src="https://cdn-cms-s.f-static.net/versions/2/js/minimize_p1.js?v=r82146" crossorigin="anonymous"></script><script src="https://cdn-cms-s.f-static.net/versions/2/js/minimize_p2.js?v=r82146" crossorigin="anonymous"></script><script src="https://cdn-cms-s.f-static.net/versions/2/js/minimize_p3.js?v=r82146" crossorigin="anonymous"></script><script src="https://cdn-cms-s.f-static.net/versions/2/js/minimize_p4.js?v=r82146" crossorigin="anonymous"></script><script src="https://cdn-cms-s.f-static.net/versions/2/js/js.php?v=r82146&umk=3" crossorigin="anonymous"></script><script src="https://cdn-cms-s.f-static.net/versions/2/js/minimize_scripts.js?v=r82146" crossorigin="anonymous"></script> <!-- Website Statistics --> <script src="https://cdn-cms-s.f-static.net/versions/2/wizard/statistics/js/generateStats-min.js?v=r82146" crossorigin="anonymous"></script> <!-- Floating Magic Button Update Preview Helper --><div> <div class="magic-button-container"> <!-- Contact Magic Button Settings--> <input type="hidden" id="magicButtonSettings" value="{&quot;active&quot;:false,&quot;style&quot;:&quot;mainColor&quot;,&quot;items&quot;:{},&quot;greeter&quot;:{&quot;active&quot;:false,&quot;value&quot;:&quot;&quot;},&quot;mobileFullWidth&quot;:false,&quot;siteLogo&quot;:&quot;&quot;,&quot;siteName&quot;:&quot;portfolio&quot;}"> <!-- Share Magic Button Settings --> <input type="hidden" id="shareMagicButtonSettings" value="{&quot;active&quot;:true,&quot;style&quot;:&quot;mainColor&quot;,&quot;items&quot;:{&quot;faceBook&quot;:{&quot;order&quot;:1,&quot;icon&quot;:&quot;&quot;,&quot;active&quot;:&quot;&quot;,&quot;value&quot;:&quot;1&quot;,&quot;dialCode&quot;:&quot;&quot;,&quot;hasInput&quot;:false}},&quot;greeter&quot;:{&quot;active&quot;:false,&quot;value&quot;:&quot;&quot;},&quot;siteLogo&quot;:&quot;&quot;,&quot;siteName&quot;:&quot;portfolio&quot;}"> <!-- All Magic Buttons --> <div class="all-magic-buttons" data-is-managment="1"></div> </div></div><script src="https://cdn-cms-s.f-static.net/files/vendor/magic-button/front/js/magic-button-min.js?v=r82146" crossorigin="anonymous" defer></script><!-- Pjax Helper --><div class="s123-front-last-element hidden"></div></body></html>
